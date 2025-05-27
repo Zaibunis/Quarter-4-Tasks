@@ -2,9 +2,9 @@
 **Meet Generative AI, Your New Creative Sidekick**
 
 <div align="center">
-  <img src="![https://pixelplex.io/wp-content/uploads/2024/01/llm-applications-main.jpg](../images/Generative-AI-ethical-use.jpg)">
-  
+  <img src="https://www.bing.com/images/search?view=detailV2&ccid=t8chGu9X&id=86DC6797673E47C3E2245DD21A00D786F59780FE&thid=OIP.t8chGu9Xw7dPJTlcEbeovAHaDr&mediaurl=https%3a%2f%2fgeniusai.io%2fwp-content%2fuploads%2f2023%2f07%2fGenerative-AI.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.b7c7211aef57c3b74f25395c11b7a8bc%3frik%3d%252foCX9YbXABrSXQ%26pid%3dImgRaw%26r%3d0&exph=593&expw=1194&q=generative+ai+pictures&simid=608036665780738576&FORM=IRPRST&ck=01E23677A83D8EEBE35640C80CA76841&selectedIndex=0&itb=0" alt="Generative AI Robot" />
 </div>
+
 
 
 ---
