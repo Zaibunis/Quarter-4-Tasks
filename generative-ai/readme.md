@@ -1,7 +1,10 @@
 # 🤖 🚀 “Wait… AI Can Make That?!”  
 **Meet Generative AI, Your New Creative Sidekick**
 
-(images/Generative-AI-ethical-use.jpg)
+<div align="center">
+  <img src="![https://pixelplex.io/wp-content/uploads/2024/01/llm-applications-main.jpg](../images/Generative-AI-ethical-use.jpg)">
+  
+</div>
 
 
 ---
