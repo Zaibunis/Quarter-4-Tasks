@@ -1,7 +1,8 @@
 # 🤖 🚀 “Wait… AI Can Make That?!”  
 **Meet Generative AI, Your New Creative Sidekick**
 
-![Generative AI Robot](https://C:\Users\Zainab\OneDrive\Documents\quarter-4-tasks\images\1_TfDiiXxhe55bHNGpUvGAUg.webp)
+![Generative AI Robot](![Generative AI Robot](images/1_TfDiiXxhe55bHNGpUvGAUg.webp)
+)
 
 ---
 
