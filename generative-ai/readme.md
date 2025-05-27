@@ -1,8 +1,8 @@
 # 🤖 🚀 “Wait… AI Can Make That?!”  
 **Meet Generative AI, Your New Creative Sidekick**
 
-![Generative AI Robot](![Generative AI Robot](images/1_TfDiiXxhe55bHNGpUvGAUg.webp)
-)
+![Generative AI Robot](images/Generative-AI-ethical-use.jpg)
+
 
 ---
 
