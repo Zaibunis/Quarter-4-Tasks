@@ -145,5 +145,4 @@ If this helped you, share it with others learning FastAPI. Let’s build cool st
 ---
 
 *Written by: Faria Mustaqim*  
-*Currently learning at: Governor Sindh Initiative for Artificial Intelligence (GIAIC)*  
-*Exploring the world of Generative AI*
+*Currently learning at: Governor Sindh Initiative for Artificial Intelligence (GIAIC)* 
