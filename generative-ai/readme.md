@@ -147,6 +147,12 @@ You bring the ideas, and AI brings them to life — fast, fun, and often mind-bl
 
 ---
 
+## 📖 Read More on Medium
+
+[👉 Click here to read the full article on Medium](https://medium.com/@zainabmustaqeem123/wait-ai-can-make-that-meet-generative-ai-your-new-creative-sidekick-8366dafd1e8c)
+
+---
+
 *Written by: Faria Mustaqim*  
 *Currently learning at: Governor Sindh Initiative for Artificial Intelligence (GIAIC)*  
 *Exploring the world of Generative AI*
