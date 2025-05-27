@@ -1,7 +1,7 @@
 # 🤖 🚀 “Wait… AI Can Make That?!”  
 **Meet Generative AI, Your New Creative Sidekick**
 
-![Generative AI Robot](https://your-image-url-or-path.png)
+![Generative AI Robot](https://C:\Users\Zainab\OneDrive\Documents\quarter-4-tasks\images\1_TfDiiXxhe55bHNGpUvGAUg.webp)
 
 ---
 
@@ -67,26 +67,31 @@ That’s not just smart — that’s creative.
 ## 🎭 Meet the Generative AI Dream Team:
 
 - **📝 The Wordsmith Writes:** text-generation  
+
   Stories, tweets, emails, blog posts.  
   Tools: ChatGPT, Jasper  
   Try this: “Tell a bedtime story about a sleepy robot.” 🤖💤
 
 - **🎨 The Visual Artist Creates:** image-generation  
+
   Art from text.  
   Tools: DALL·E, Midjourney  
   Try this: “A frog in a hoodie skateboarding at sunset.” 🐸🛹
 
 - **🎬 The Director Produces:** video-generation  
+
   Ads, animations, short films.  
   Tools: RunwayML, Pika, Sora  
   Example: 30-second TikTok ad, made in 5 minutes!
 
 - **👨‍💻 The Coder Codes:** code-generation  
+
   Web apps, games, tools.  
   Tools: GitHub Copilot, Replit  
   Try this: “Build a to-do app in JavaScript.” ✅
 
 - **🧱 The Sculptor Builds:** 3D Model Generation  
+
   3D models, game assets.  
   Tools: Meshy, NVIDIA Omniverse  
   Prompt: “A cute dragon holding a sword.” 🐉⚔️
