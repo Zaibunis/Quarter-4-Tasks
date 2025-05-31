@@ -24,9 +24,9 @@ def add(a, b):
 result = add(5, 3)   # This is the function call
 print(result)
 ✅ Output:
-Copy
-Edit
 8
+```
+
 🔎 Explanation:
 add is the function name.
 
@@ -42,19 +42,17 @@ It returns the result 8.
 Tool calling means asking an external tool or service (like an API or executable program) to do something for your app.
 
 ✅ Tool Calling Example (Weather API):
-http
-Copy
-Edit
+
+```
 GET https://api.weatherapi.com/v1/current.json?key=API_KEY&q=Karachi
 ✅ Output:
-json
-Copy
-Edit
 {
   "location": "Karachi",
   "temp_c": 36,
   "condition": "Sunny"
 }
+```
+
 📡 Tool calling relies on the internet or other systems and is often slower than function calling. It’s used to fetch real-world data, send emails, access cloud tools, etc.
 
 🔁 Function Calling vs Tool Calling: Key Differences
@@ -72,33 +70,33 @@ When you use tools like ChatGPT, OpenAI uses both function calling and tool call
 🧠 What Happens Internally?
 User Input:
 
-text
-Copy
-Edit
+
 "Show me the current weather in Karachi"
 Step 1: Function Call Prepared Internally
-json
-Copy
-Edit
+
+```
 {
   "function": "get_weather",
   "arguments": {
     "city": "Karachi"
   }
 }
+```
+
 Step 2: Tool Response from API
-json
-Copy
-Edit
+
+```
 {
   "temperature": "36°C",
   "condition": "Sunny"
 }
+```
+
 Step 3: Final Output to User
-text
-Copy
-Edit
+
+```
 Right now, it's 36°C and sunny in Karachi.
+```
 
 📊 Internal Flow Diagram
 
@@ -152,12 +150,17 @@ Connecting AI with real-world tools allows:
 🌐 Tool calling: to connect with APIs, perform tasks, and scale applications.
 
 💡 Conclusion
-Goal	Use
-Reuse your own logic and methods	✅ Function Calling
-Fetch data or interact with external API	✅ Tool Calling
+Reuse your own logic or code → Use Function Calling
+Communicate with external systems/tools → Use Tool Calling
 
-✍️ Written By
-Faria Mustaqim
-Student at: Governor Sindh Initiative for Artificial Intelligence (GIAIC)
+---
+
+[👉 Click here to read the full article on Medium](https://medium.com/@zainabmustaqeem123/a46e496934ce)
+
+---
+
+*Written by: Faria Mustaqim*  
+*Currently learning at: Governor Sindh Initiative for Artificial Intelligence (GIAIC)*  
+*Exploring the world of Generative AI*
 
 ---
