@@ -24,13 +24,14 @@ print(result)
 ```
 
 🔎 Explanation:
-add is the function name.
 
-add(5, 3) is the function call.
+- add is the function name.
 
-5 and 3 are arguments.
+- add(5, 3) is the function call.
 
-It returns the result 8.
+- 5 and 3 are arguments.
+
+- It returns the result 8.
 
 ⚡ Function calling happens locally in your code and is very fast. It’s used for logic, calculations, and handling actions inside apps.
 
@@ -52,18 +53,25 @@ GET https://api.weatherapi.com/v1/current.json?key=API_KEY&q=Karachi
 📡 Tool calling relies on the internet or other systems and is often slower than function calling. It’s used to fetch real-world data, send emails, access cloud tools, etc.
 
 🔁 Function Calling vs Tool Calling — Key Differences
+
 🔹 Execution location
 
-Function Calling: Inside your code
-Tool Calling: Outside your app (API, system, or service)
+Function Calling: 
+Inside your code
+
+Tool Calling: 
+Outside your app (API, system, or service)
+
 🔹 Internet required?
 
 Function Calling: ❌ No (usually local)
 Tool Calling: ✅ Yes (often connects to web)
+
 🔹 Example
 
 Function Calling: sum(2, 3)
 Tool Calling: get_weather(city="Karachi")
+
 🔹 Speed
 
 Function Calling: ⚡ Fast (runs locally)
