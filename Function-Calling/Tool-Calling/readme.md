@@ -35,6 +35,8 @@ print(result)
 
 ⚡ Function calling happens locally in your code and is very fast. It’s used for logic, calculations, and handling actions inside apps.
 
+---
+
  ## 🛠️ What is Tool Calling?
 
 Tool calling means asking an external tool or service (like an API or executable program) to do something for your app.
@@ -51,57 +53,63 @@ GET https://api.weatherapi.com/v1/current.json?key=API_KEY&q=Karachi
 }
 ```
 
+---
+
 - 📡 Tool calling relies on the internet or other systems and is often slower than function calling. It’s used to fetch real-world data, send emails, access cloud tools, etc.
+
+---
 
 - 🔁 Function Calling vs Tool Calling — Key Differences
 
 🔹 Execution location
 
 Function Calling: 
-Inside your code
+- Inside your code
 
 Tool Calling: 
-Outside your app (API, system, or service)
+- Outside your app (API, system, or service)
 
 🔹 Internet required?
 
 Function Calling: 
-❌ No (usually local)
+- ❌ No (usually local)
 
 Tool Calling: 
-✅ Yes (often connects to web)
+- ✅ Yes (often connects to web)
 
 🔹 Example
 
 Function Calling: 
-sum(2, 3)
+- sum(2, 3)
 
 Tool Calling: 
-get_weather(city="Karachi")
+- get_weather(city="Karachi")
 
 🔹 Speed
 
 Function Calling: 
-⚡ Fast (runs locally)
+- ⚡ Fast (runs locally)
 
 Tool Calling: 
-🕒 Slower (depends on external systems)
+- 🕒 Slower (depends on external systems)
 
 🔹 Output
 
 Function Calling: 
-Returns value
+- Returns value
 
 Tool Calling: 
-Gets response from API/tool
+- Gets response from API/tool
 
 🔹 Use Case
 
 Function Calling: 
-Logic, calculations, UI events
+- Logic, calculations, UI events
 
 Tool Calling: 
-Data fetching, automation, image generation
+- Data fetching, automation, image generation
+
+---
 
 ## 🤖 How OpenAI Uses Tool & Function Calling
 When you chat with something like ChatGPT, you’re not just talking to an AI — you’re often asking it to use powerful tools behind the scenes.
@@ -139,6 +147,7 @@ User Input:
 ```
 Right now, it's 36°C and sunny in Karachi.
 ```
+---
 
 ## 📊 Internal Flow Diagram
 
@@ -185,6 +194,8 @@ Right now, it's 36°C and sunny in Karachi.
 │  Karachi                    │
 └────────────────────────────┘
 
+---
+
 ## 🧩 Why This Matters
 
 Connecting AI with real-world tools allows:
@@ -194,6 +205,8 @@ to reuse and organize internal logic.
 
 🌐 Tool calling: 
 to connect with APIs, perform tasks, and scale applications.
+
+---
 
 ## 💡 Conclusion
 
