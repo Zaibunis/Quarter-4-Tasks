@@ -64,50 +64,50 @@ GET https://api.weatherapi.com/v1/current.json?key=API_KEY&q=Karachi
 🔹 Execution location
 
 Function Calling: 
-- Inside your code
+Inside your code
 
 Tool Calling: 
-- Outside your app (API, system, or service)
+Outside your app (API, system, or service)
 
 🔹 Internet required?
 
 Function Calling: 
-- ❌ No (usually local)
+❌ No (usually local)
 
 Tool Calling: 
-- ✅ Yes (often connects to web)
+✅ Yes (often connects to web)
 
 🔹 Example
 
 Function Calling: 
-- sum(2, 3)
+sum(2, 3)
 
 Tool Calling: 
-- get_weather(city="Karachi")
+get_weather(city="Karachi")
 
 🔹 Speed
 
 Function Calling: 
-- ⚡ Fast (runs locally)
+⚡ Fast (runs locally)
 
 Tool Calling: 
-- 🕒 Slower (depends on external systems)
+-🕒 Slower (depends on external systems)
 
 🔹 Output
 
 Function Calling: 
-- Returns value
+-Returns value
 
 Tool Calling: 
-- Gets response from API/tool
+-Gets response from API/tool
 
 🔹 Use Case
 
 Function Calling: 
-- Logic, calculations, UI events
+-Logic, calculations, UI events
 
 Tool Calling: 
-- Data fetching, automation, image generation
+-Data fetching, automation, image generation
 
 ---
 
