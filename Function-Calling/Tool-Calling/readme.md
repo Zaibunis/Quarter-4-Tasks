@@ -35,7 +35,8 @@ print(result)
 
 ⚡ Function calling happens locally in your code and is very fast. It’s used for logic, calculations, and handling actions inside apps.
 
-🛠️ What is Tool Calling?
+ ## 🛠️ What is Tool Calling?
+
 Tool calling means asking an external tool or service (like an API or executable program) to do something for your app.
 
 ✅ Tool Calling Example (Weather API):
@@ -50,9 +51,9 @@ GET https://api.weatherapi.com/v1/current.json?key=API_KEY&q=Karachi
 }
 ```
 
-📡 Tool calling relies on the internet or other systems and is often slower than function calling. It’s used to fetch real-world data, send emails, access cloud tools, etc.
+- 📡 Tool calling relies on the internet or other systems and is often slower than function calling. It’s used to fetch real-world data, send emails, access cloud tools, etc.
 
-🔁 Function Calling vs Tool Calling — Key Differences
+- 🔁 Function Calling vs Tool Calling — Key Differences
 
 🔹 Execution location
 
@@ -64,36 +65,56 @@ Outside your app (API, system, or service)
 
 🔹 Internet required?
 
-Function Calling: ❌ No (usually local)
-Tool Calling: ✅ Yes (often connects to web)
+Function Calling: 
+❌ No (usually local)
+
+Tool Calling: 
+✅ Yes (often connects to web)
 
 🔹 Example
 
-Function Calling: sum(2, 3)
-Tool Calling: get_weather(city="Karachi")
+Function Calling: 
+sum(2, 3)
+
+Tool Calling: 
+get_weather(city="Karachi")
 
 🔹 Speed
 
-Function Calling: ⚡ Fast (runs locally)
-Tool Calling: 🕒 Slower (depends on external systems)
+Function Calling: 
+⚡ Fast (runs locally)
+
+Tool Calling: 
+🕒 Slower (depends on external systems)
+
 🔹 Output
 
-Function Calling: Returns value
-Tool Calling: Gets response from API/tool
+Function Calling: 
+Returns value
+
+Tool Calling: 
+Gets response from API/tool
+
 🔹 Use Case
 
-Function Calling: Logic, calculations, UI events
-Tool Calling: Data fetching, automation, image generation
+Function Calling: 
+Logic, calculations, UI events
 
-🤖 How OpenAI Uses Tool & Function Calling
-When you use tools like ChatGPT, OpenAI uses both function calling and tool calling behind the scenes.
+Tool Calling: 
+Data fetching, automation, image generation
+
+## 🤖 How OpenAI Uses Tool & Function Calling
+When you chat with something like ChatGPT, you’re not just talking to an AI — you’re often asking it to use powerful tools behind the scenes.
+
+Let’s understand how it works in easy words:
 
 🧠 What Happens Internally?
+
 User Input:
 
-
 "Show me the current weather in Karachi"
-Step 1: Function Call Prepared Internally
+
+- Step 1: Function Call Prepared Internally
 
 ```
 {
@@ -104,7 +125,7 @@ Step 1: Function Call Prepared Internally
 }
 ```
 
-Step 2: Tool Response from API
+- Step 2: Tool Response from API
 
 ```
 {
@@ -113,13 +134,13 @@ Step 2: Tool Response from API
 }
 ```
 
-Step 3: Final Output to User
+- Step 3: Final Output to User
 
 ```
 Right now, it's 36°C and sunny in Karachi.
 ```
 
-📊 Internal Flow Diagram
+## 📊 Internal Flow Diagram
 
 ┌──────────────────────┐
 │      USER INPUT      │
@@ -163,14 +184,19 @@ Right now, it's 36°C and sunny in Karachi.
 │  It’s 36°C and sunny in     │
 │  Karachi                    │
 └────────────────────────────┘
-🧩 Why This Matters
+
+## 🧩 Why This Matters
+
 Connecting AI with real-world tools allows:
 
-🔄 Function calling: to reuse and organize internal logic.
+🔄 Function calling: 
+to reuse and organize internal logic.
 
-🌐 Tool calling: to connect with APIs, perform tasks, and scale applications.
+🌐 Tool calling: 
+to connect with APIs, perform tasks, and scale applications.
 
-💡 Conclusion
+## 💡 Conclusion
+
 Reuse your own logic or code → Use Function Calling
 Communicate with external systems/tools → Use Tool Calling
 
