@@ -6,6 +6,7 @@
 - **Generative AI** – Harness the power of Large Language Models (LLMs)
 - **LLMs (Large Language Models)** – Understand and use models like OpenAI's GPT
 - **Tools and Function Calling (OpenAI-style)** – Enable LLMs to call external tools and functions dynamically
+-  **Openai Agents SDK** - Build intelligent AI assistants easily with the OpenAI Agents SDK, a Python-first framework designed for safe, scalable AI development.
 
 ## 📖 Resources
 
@@ -14,6 +15,7 @@
 - [LangChain](https://docs.langchain.com/)
 - [Pydantic Docs](https://docs.pydantic.dev/)
 - [Render FastAPI Guide](https://render.com/docs/deploy-fastapi)
+- [Openai Docs](https://platform.openai.com/docs/overview)
 
 ---
 
